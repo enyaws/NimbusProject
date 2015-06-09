@@ -1,0 +1,124 @@
+body,html{
+	margin:0%;
+	height:100%;
+}
+.navbar{
+	padding:1%;
+	opacity:0.8;
+}
+
+.navbar-default {
+  background-color: #080808;
+  border-color: #e7e7e7;
+}
+.navbar-default .navbar-nav>li>a{
+  color: #FFFFFF;
+  font-family:"Open Sans", sans-serif;
+  font-size:15px;
+  font-weight:800;
+}
+.head-row{
+	background:url("../img/hero-photo.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.container{
+	text-align:center;
+}
+.white{
+	color:white;
+}
+.black{
+	color:black;
+}
+.merp{
+  	font-size:36px;
+  	font-weight:800;
+}
+.ferp{
+	font-size:22px;
+}
+.niw{
+	padding-top:165px;
+	padding-bottom:50px;
+}
+.gyh{
+  	font-size:60px;
+  	font-weight:800;
+}
+.why{
+	font-size:36px;
+}
+.btn-primary{
+	padding:1% 5%;
+	margin-top:50px;
+	margin-bottom:232px;
+	background-color:orange;
+	font-weight:bold;
+	border:1px solid orange;
+}
+.black{
+	color:black;
+	text-align:center;
+}
+.black h1{
+	padding-top:108px;
+}
+.black p{
+	font-size:17px;
+	padding:30px 0 50px 0;
+}
+.iconrow{
+	padding-top:50px 0px;
+}
+.thirdrow{
+	background:url("../img/testimonial-photo1.png");
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-attachment:fixed;
+}
+.thirdrow .container{
+	padding-top:166px;
+	padding-bottom: 58px;
+	color:#FFFFFF;
+	font-size:30px;
+}
+.thirdrow p{
+	padding:60px;
+}
+.thirdrow button{
+	margin-bottom:108px;
+}
+h3 {
+	font-size:18px;
+	font-weight:800;
+}
+.sand{
+	font-family:"Quicksand", sans-serif;
+}
+.sans{
+	font-family:"Open Sans", sans-serif;
+}
+.derp p{
+	
+	font-size:18px;
+	color:#959595;
+}
+.2ndbutton{
+	font-size:18px;
+	font-weight:800;
+	color:orange;
+	border:1px solid orange;
+	background-color:white;
+	padding:27px 54px;
+}
+.serp{
+	text-align: left;
+}
+.terp{
+	padding:10px;
+}
+a{
+	color:grey;
+}
